@@ -59,5 +59,6 @@ public class MainActivity extends AppCompatActivity {
                 ScrollView ll1 = (ScrollView) findViewById(R.id.scrollView);
                 ll1.fullScroll(View.FOCUS_DOWN);
             }});
+
     }
 }
